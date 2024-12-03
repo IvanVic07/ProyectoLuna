@@ -1,0 +1,35 @@
+Marca;Modelo;Color;Almacenamiento_GB;RAM_GB;Precio_USD;Disponibilidad;Fecha_Lanzamiento;Sistema_Operativo;Resolucion_Camara;Capacidad_Bateria_mAh;Tamano_Pantalla;peso_g;Dimensiones_mm;Clasificacion_IP
+Samsung;Galaxy S21;Ultraviolet;128;8;799;In stock;29/01/2021;Android 11;64MP + 12MP + 12MP;4000;6.2;171;151.7 x 71.2 x 7.9;IP68
+Apple;iPhone 13;Blue;256;6;999;Out of stock;24/09/2021;iOS 15;12MP + 12MP + 12MP;3095;6.1;174;146.7 x 71.5 x 7.4;IP68
+OnePlus;9 Pro;Stellar Black;256;12;1069;In stock;23/03/2021;OxygenOS 11;48MP + 50MP + 8MP + 2MP;4500;6.7;197;163.2 x 73.6 x 8.7;Not specified
+Xiaomi;Redmi Note 10;Green;128;6;279;In stock;04/03/2021;MIUI 12 (Android 11);48MP + 8MP + 2MP + 2MP;5000;6.43;178.8;160.5 x 74.5 x 8.3;IP53
+Google;Pixel 6;Stormy Black;128;8;699;Out of stock;19/10/2021;Android 12;50MP + 12MP;4614;6.4;207;158.6 x 74.8 x 8.9;IP68
+Huawei;Mate 40 Pro;Mystic Silver;256;8;1199;In stock;22/10/2020;EMUI 11 (Android 10);50MP + 20MP + 12MP;4400;6.76;212;162.9 x 75.5 x 9.1;IP68
+Motorola;Moto G Stylus;Black;128;4;299;In stock;08/01/2021;Android 10;48MP + 8MP + 2MP + 2MP;4000;6.8;213;169.8 x 77.9 x 9;Not specified
+Sony;Xperia 1 III;Black;256;12;1299;Out of stock;19/08/2021;Android 11;12MP + 12MP + 12MP + 0.3MP;4500;6.5;186;165 x 71 x 7.6;IP65/IP68
+Samsung;Galaxy A52s;White;128;6;499;In stock;17/08/2021;Android 11;64MP + 12MP + 5MP + 5MP;4500;6.5;189;159.9 x 75.1 x 8.4;IP67
+Apple;iPhone SE (2020);Red;256;3;549;In stock;24/04/2020;iOS 13;12MP;1821;4.7;148;138.4 x 67.3 x 7.3;IP67
+OnePlus;Nord 2;Blue Haze;256;12;499;Out of stock;28/07/2021;OxygenOS 11.3;50MP + 8MP + 2MP;4500;6.43;189;158.9 x 73.2 x 8.3;Not specified
+Xiaomi;POCO X3 Pro;Phantom Black;128;8;249;In stock;22/03/2021;MIUI 12 (Android 11);48MP + 8MP + 2MP + 2MP;5160;6.67;215;165.3 x 76.8 x 9.4;IP53
+Google;Pixel 4a 5G;Just Black;128;6;499;Out of stock;19/11/2020;Android 11;12.2MP + 16MP;3885;6.2;168;153.9 x 74 x 8.2;Not specified
+Huawei;P30 Pro;Aurora;256;8;799;In stock;26/03/2019;EMUI 9.1 (Android 9);40MP + 20MP + 8MP + TOF 3D;4200;6.47;192;158 x 73.4 x 8.4;IP68
+Motorola;Moto G Power 2021;Gray;64;4;199;In stock;14/01/2021;Android 10;48MP + 2MP + 2MP;5000;6.6;206.5;165.3 x 75.9 x 9.5;Not specified
+Sony;Xperia 10 III;Blue;128;6;399;Out of stock;04/06/2021;Android 11;12MP + 8MP + 8MP;4500;6;169;154 x 68 x 8.3;IP65/IP68
+Samsung;Galaxy Z Fold 3;Phantom Black;256;12;1799;Out of stock;27/08/2021;Android 11;12MP + 12MP + 12MP;4400;7.6;271;158.2 x 67.1 x 16.0 (unfolded);IPX8
+Apple;iPhone 13 Pro;Graphite;512;6;999;In stock;24/09/2021;iOS 15;12MP + 12MP + 12MP;3095;6.1;204;146.7 x 71.5 x 7.7;IP68
+OnePlus;8 Pro;Glacial Green;256;12;899;Out of stock;21/04/2020;OxygenOS 10.5;48MP + 48MP + 8MP + 5MP;4510;6.78;199;165.3 x 74.4 x 8.5;Not specified
+Xiaomi;Redmi Note 9;Forest Green;128;4;249;In stock;30/04/2020;MIUI 12 (Android 10);48MP + 8MP + 2MP + 2MP;5020;6.53;199;162.3 x 77.2 x 8.9;IP53
+Google;Pixel 6 Pro;Cloudy White;256;12;899;Out of stock;19/10/2021;Android 12;50MP + 48MP + 12MP;5003;6.7;210;163.9 x 75.9 x 8.9;IP68
+Huawei;Honor 20 Pro;Phantom Blue;256;8;599;Out of stock;01/08/2019;EMUI 9.1 (Android 9);48MP + 16MP + 8MP + 2MP;4000;6.26;182;154.6 x 73.9 x 8.4;Not specified
+Motorola;Moto G Fast;White;32;3;149;In stock;05/06/2020;Android 10;16MP + 8MP + 2MP;4000;6.4;189.4;161.9 x 75.7 x 9.0;Not specified
+Sony;Xperia 10 II;White;128;4;369;Out of stock;29/05/2020;Android 10;12MP + 8MP + 8MP;3600;6;151;157 x 69 x 8.2;IP65/IP68
+Samsung;Galaxy Z Flip 3;Cream;256;8;999;Out of stock;27/08/2021;Android 11;12MP + 12MP;3300;6.7;183;166 x 72.2 x 6.9 (folded);IPX8
+Apple;iPhone 13 mini;Green;512;6;1099;Out of stock;24/09/2021;iOS 15;12MP + 12MP + 12MP;2406;5.4;140;131.5 x 64.2 x 7.7;IP68
+OnePlus;8T+;Aquamarine Green;256;12;749;Out of stock;14/10/2020;OxygenOS 11;48MP + 16MP + 5MP + 2MP;4500;6.55;188;160.7 x 74.1 x 8.4;Not specified
+Xiaomi;POCO M3;Power Black;128;4;179;In stock;24/11/2020;MIUI 12 (Android 10);48MP + 2MP + 2MP;6000;6.53;198;162.3 x 77.3 x 9.6;IP53
+Google;Pixel 4a;Just Black;128;6;349;Out of stock;03/08/2020;Android 10;12.2MP;3140;5.81;143;144 x 69.4 x 8.2;IP53
+Huawei;Mate 30 Pro;Space Silver;256;8;899;Out of stock;19/09/2019;EMUI 10 (Android 10);40MP + 40MP + 8MP + TOF 3D;4500;6.53;198;158.1 x 73.1 x 8.8;IP68
+Motorola;Moto G Play;Steel Grey;32;3;169;In stock;14/01/2021;Android 10;13MP;5000;6.5;204.1;166.59 x 75.99 x 9.36;Not specified
+Sony;Xperia 1 II;Black;256;8;1199;Out of stock;29/05/2020;Android 10;12MP + 12MP + 12MP + 0.3MP;4000;6.5;181;166 x 72 x 7.9;IP65/IP68
+Samsung;Galaxy A32;Black;128;6;279;In stock;26/02/2021;Android 11;64MP + 8MP + 5MP + 5MP;5000;6.4;184;158.9 x 73.6 x 8.4;Not specified
+Apple;iPhone 11;Black;256;4;849;In stock;20/09/2019;iOS 13;12MP + 12MP;3110;6.1;194;150.9 x 75.7 x 8.3;IP68
